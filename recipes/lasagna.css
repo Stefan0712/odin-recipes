@@ -1,0 +1,32 @@
+img{
+    height: 400px;
+    width: 500px;
+    border-radius: 25px;
+}
+body {
+    background: #FCE38A;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+p,
+li{
+    font-size: 30px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    background: #F38181;
+    text-align: center;
+    padding: 20px 30px;
+    border-radius:100px;
+}
+p,
+ul,
+ol{
+    background-color: #EAFFD0;
+    padding: 50px;
+    border-radius: 25px;
+    width: 50%;
+}
