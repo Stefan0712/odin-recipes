@@ -1,0 +1,16 @@
+body {
+    background: #FCE38A;
+    text-align: center;
+    
+}
+li{
+    list-style: none;
+    font-size: 30px;
+    text-decoration: none;
+   
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
